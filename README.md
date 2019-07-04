@@ -1,1 +1,1 @@
-This is a mini python example to show how to make and run a docker image of python application.
+This is a mini python example to show how to build and run a docker image of python application.
